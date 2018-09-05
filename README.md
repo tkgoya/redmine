@@ -10,7 +10,7 @@ More details can be found in the doc directory or on the [official website](http
 ## How to deploy [Redmine] on [Heroku]
 
 1. Make sure you have the [Heroku Toolbelt] installed.
-2. Click this button and follow the instructions: <BR/> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tkgoya/redmine)
+2. Click this button and follow the instructions: <BR/> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tkgoya/redmine/tree/3.4-stable-on-heroku)
 3. After you have an instance running on Heroku, run these commands in your terminal.
 
 ```
